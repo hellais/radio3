@@ -27,7 +27,7 @@ un unica corporazione. Tutti possono diventare un processore di pagamenti nella
 rete bitcoin, ma come funziona esattamente? Quali sono i suoi vantaggi rispetto
 ai sistemi esistenti?
 
-# Temi
+## Temi
 
   * Che cosa è il bitcoin?
   * Perchè è tanto innovativo?
@@ -66,6 +66,8 @@ ai sistemi esistenti?
   * Donatella della Ratta (http://cyber.law.harvard.edu/people/ddellaratta)
 
 # L'evoluzione della cultura Hacker
+
+OT?
 
 ## Ospiti
 
