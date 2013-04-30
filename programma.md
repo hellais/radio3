@@ -40,7 +40,7 @@ ai sistemi esistenti?
 
   * Jaromil (http://en.wikipedia.org/wiki/Jaromil)
 
-# Trasparenza
+# Trasparenza + Copyright, Copyleft, Open Access, creative commons.
 
 ## Temi
 
@@ -48,21 +48,14 @@ ai sistemi esistenti?
   * Freedom of information
   * Open Data
   * La relazione tra open data e privacy
-
-## Ospiti
-
-  * Guido Romeo (https://twitter.com/guidoromeo/)
-
-# Copyright, Copyleft, Open Access, creative commons.
-
-## Temi
-
   * Che cose è il copyleft?
   * Che cosa si intende per Open Access?
 
 ## Ospiti
 
+  * Guido Romeo (https://twitter.com/guidoromeo/)
   * Juan Carlos de Martin (http://it.wikipedia.org/wiki/Juan_Carlos_De_Martin)
+  * Davide Del Monte di Transparency International (http://www.linkedin.com/profile/view?id=94743895)
   * Donatella della Ratta (http://cyber.law.harvard.edu/people/ddellaratta)
 
 # L'evoluzione della cultura Hacker
