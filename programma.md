@@ -6,11 +6,6 @@
   * Cosa si intende con attacchi mirati (trojan di stato)
   * Incongruenze legali che impattano la privacy di tutti
 
-## Ospiti
-
-  * Morgan Mayhem (https://twitter.com/headhntr)
-  * Francesco Micozzi (http://www.micozzi.it/)
-  * G.B. Gallus (http://www.studiogallus.it/)
 
 # Economia e tecnologia: I bitcoin.
 
@@ -60,12 +55,6 @@ ai sistemi esistenti?
 
 # L'evoluzione della cultura Hacker
 
-OT?
-
-## Ospiti
-
-  * neuro (http://it.wikipedia.org/wiki/Stefano_Chiccarelli)
-  * Giovanni Ziccardi (http://www.ziccardi.org)
 
 ## Temi
 
@@ -77,10 +66,6 @@ OT?
 
 # Censura internet e Net Neutrality
 
-## Ospiti
-
-  * Vincenzo Maria Vita (http://it.wikipedia.org/wiki/Vincenzo_Maria_Vita)
-  * Simone Basso (https://twitter.com/bassosimone)
 
 ## Temi
 
@@ -96,11 +81,6 @@ OT?
 
 # Voto elettronico e democrazia diretta digitale
 
-## Ospiti
-
-  * Fabio Chiusi (http://ilnichilista.com/)
-  * Qualcuno del partito pirata italiano (Robotica, LyNx, Ciurcina?)
-
 ## Temi
 
   * Cosa si intende con voto elettronico?
@@ -113,9 +93,3 @@ OT?
   http://www.festivaldelgiornalismo.com/post/29881/
 
 # Misc
-
-## Ospiti
-
-  * Andrea Monti (http://it.wikipedia.org/wiki/Andrea_Monti_(giurista))
-
-
